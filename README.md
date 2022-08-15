@@ -1,0 +1,1 @@
+# markdown-link-check-with-bash
